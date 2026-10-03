@@ -6,7 +6,7 @@ const About = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
           
-          <div className="h-[500px] w-full bg-gray-800">
+          <div className="h-125 w-full bg-gray-800">
              <img 
                src="https://images.unsplash.com/photo-1616949755610-8c9bbc08f138?q=80&w=1000&auto=format&fit=crop" 
                alt="Savoir-faire Aura-Belle" 

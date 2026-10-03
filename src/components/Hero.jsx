@@ -27,7 +27,7 @@ const Hero = () => {
           </div>
 
           {/* Image (Image 2 - Brave) */}
-          <div className="relative h-[600px] w-full flex items-center justify-center">
+          <div className="relative h-150 w-full flex items-center justify-center">
              <img 
                
                className="object-cover w-full h-full shadow-2xl"
